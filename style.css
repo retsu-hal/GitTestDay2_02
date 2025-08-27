@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@500;700&family=Mochiy+Pop+One&display=swap');
 
 :root {
-    --mario-red: #ff3333;
+    --mario-red: #0ff;
     --luigi-green: #4caf50;
     --peach-pink: #ff69b4;
     --yoshi-green: #70c43e;
@@ -96,7 +96,7 @@ nav a:hover::before {
 
 /* Hero Section */
 .hero {
-    background-color: var(--star-yellow);
+    background-color: var(--mario-red);
     padding: 80px 20px;
     box-shadow: inset 0 -10px 10px rgba(0, 0, 0, 0.1);
     position: relative;
